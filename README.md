@@ -1,2 +1,3 @@
 # Logistic-Regression-Gender-Predict-Implementation
-In this kernel, I will practice logistic regression algorithms to predict the gender of the person according to features in "Heart Disease UCI" dataset.
+
+In this kernel, Gender prediction of the person made according to features in "Heart Disease UCI" dataset using Logistic Regression Algorithms.
